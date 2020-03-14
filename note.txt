@@ -1,5 +1,5 @@
-Database name: mysqldatabase57752
-Server name: the-sharpener-mysqldbserver
+Database name: mysqldatabase3510
+Server name: wp-the-sharpener-mysqldbserver
 Server admin login name: the-sharpener
 pass: JOFSz$)1Ax$BLWL2Bc
 
@@ -7,3 +7,13 @@ pass: JOFSz$)1Ax$BLWL2Bc
 
 user: admin
 pass: JOFSz$)1Ax$BLWL2Bc
+
+
+mac
+user: admin
+pass: wLP1hSGVtqVdn0b&Hc
+
+
+http://wp-the-sharpener.azurewebsites.net/
+user: admin
+pass: 13)#(kIo5*RiOM3J*q

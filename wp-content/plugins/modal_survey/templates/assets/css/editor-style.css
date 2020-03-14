@@ -1,0 +1,8 @@
+.postbox-container .survey-results {
+	display: block;
+}
+
+.postbox-container .ms-chart {
+	display: block;
+	height: auto !important;
+}

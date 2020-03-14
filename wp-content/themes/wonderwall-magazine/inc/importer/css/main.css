@@ -1,0 +1,76 @@
+.wonderwall-magazine-importer {
+	position: relative;
+	margin: 16px 0;
+	padding: 25px;
+	border: 1px solid #e5e5e5;
+	border-left: 4px solid #46b450;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	background: #fff;
+	font-size: 13px;
+	line-height: 2.1em;
+}
+
+	.wonderwall-magazine-importer-inner {
+		overflow: hidden;
+	}
+
+		.wonderwall-magazine-importer h2 {
+			font-weight: bold;
+			margin: 0;
+			margin-bottom: 20px;
+		}
+
+		.wonderwall-magazine-importer-info {
+			margin-bottom: 20px;
+		}
+
+		.wonderwall-magazine-importer-all {
+			
+		}
+
+		.wonderwall-magazine-importer-row {
+			border: 1px solid #e5e5e5;
+			-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04);
+			box-shadow: 0 1px 1px rgba(0,0,0,.04);
+			padding: 20px;
+			margin-bottom: 20px;
+			float: left;
+			margin-right: 3%;
+			box-sizing: border-box;
+			display: none;
+			font-size: 12px;
+			text-transform: uppercase;
+		}
+
+			.wonderwall-magazine-importer-title {
+				font-weight: bolder;
+				font-size: 18px;
+				margin-bottom: 15px;
+			}
+
+			.wonderwall-magazine-importer-descr {
+				margin-bottom: 15px;
+			}
+
+			.wonderwall-magazine-importer-button {
+				margin-bottom: 15px;
+			}
+
+			.wonderwall-magazine-importer-progress {
+
+			}
+
+				.wonderwall-magazine-importer-progress-item {
+					display: none;
+				}
+
+					.wonderwall-magazine-importer-progress-item span,
+					.wonderwall-magazine-importer-progress-item strong {
+						display: none;
+					}
+
+					.wonderwall-magazine-importer-progress-item strong {
+						color: #289559;
+					}
+

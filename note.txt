@@ -1,2 +1,9 @@
+Database name: mysqldatabase57752
+Server name: the-sharpener-mysqldbserver
+Server admin login name: the-sharpener
+pass: JOFSz$)1Ax$BLWL2Bc
+
+
+
 user: admin
 pass: JOFSz$)1Ax$BLWL2Bc

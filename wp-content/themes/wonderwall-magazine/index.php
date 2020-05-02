@@ -34,7 +34,7 @@ $max_columns = 12 / $post_columns;
 
 									// thumbnail sizes
 									$thumb_width = 240;
-									$thumb_height = $thumb_width / 0.81;
+									$thumb_height = 240; //$thumb_width / 0.81;
 									$mobile_thumb_height = 480 / 1.56;
 
 									// column class
